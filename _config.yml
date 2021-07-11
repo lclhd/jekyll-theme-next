@@ -180,26 +180,26 @@ font:
   # Fallback to `global` font settings.
   headings:
     external: true
-    family: 'Architects Daughter'
+    family: 
 
   # Font settings for posts
   # Fallback to `global` font settings.
   posts:
     external: true
-    family: 'Architects Daughter'
+    family: 
 
   # Font settings for Logo
   # Fallback to `global` font settings.
   # The `size` option use `px` as unit
   logo:
     external: true
-    family: 'Architects Daughter'
+    family:
     size:
 
   # Font settings for <code> and code blocks.
   codes:
     external: true
-    family: 'Architects Daughter'
+    family: 
     size:
 
 
