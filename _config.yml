@@ -180,13 +180,13 @@ font:
   # Fallback to `global` font settings.
   headings:
     external: true
-    family: 
+    family:
 
   # Font settings for posts
   # Fallback to `global` font settings.
   posts:
     external: true
-    family: 
+    family:
 
   # Font settings for Logo
   # Fallback to `global` font settings.
@@ -199,7 +199,7 @@ font:
   # Font settings for <code> and code blocks.
   codes:
     external: true
-    family: 
+    family:
     size:
 
 
