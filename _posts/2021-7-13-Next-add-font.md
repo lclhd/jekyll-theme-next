@@ -32,5 +32,5 @@ font-family: 'Architects Daughter', cursive;
 
 
 
-原来Next的主题模板早就提供了字体的配置。这里有个问题困扰了我很久，我一直以单引号来引起后面带有空格的值，从来没觉得这样有什么问题，可是GitHub一直在这个地方报错，后来我改成单字，试了一下其他的字体，比如[Kalam](https://fonts.google.com/specimen/Kalam?query=kalam)，这个不用加引号，显示竟然没有一点问题，我意识到，问题可能还是引号的问题，看了下config.yml里面所有引用的地方用的都是双引号！我换成双引号，字体重新换成“Architects Daughter”，没有一点问题了，完美显示:joy:，正如现在看到的这样。
+原来Next的主题模板早就提供了字体的配置。这里有个问题困扰了我很久，我一直以单引号来引起后面带有空格的值，从来没觉得这样有什么问题，可是GitHub一直在这个地方报错，后来我不用引号，直接用单字，试了一下其他的字体，比如[Kalam](https://fonts.google.com/specimen/Kalam?query=kalam)，这个不用加引号，显示竟然没有一点问题，我意识到，问题可能还是引号的问题，看了下config.yml里面所有引用的地方用的都是双引号！我换成双引号，字体重新换成“Architects Daughter”，没有一点问题了，完美显示:joy:，正如现在看到的这样。
 
