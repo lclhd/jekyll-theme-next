@@ -18,7 +18,7 @@ tags:
 font-family: 'Architects Daughter', cursive;
 ~~~
 
-结果GitHub报错，可能是我导入的位置不对，我想看看用纯html页面能不能显示，结果还是显示不了，毕竟html和markdown还是不一样。后来，我在Google上面搜到[这篇文章](https://spartazhc.github.io/2020/06/03/Next%E4%B8%BB%E9%A2%98%E5%AD%97%E4%BD%93%E9%85%8D%E7%BD%AE/)，提示在config.yml里的font项添加字体配置，很简单，只需要添加host和family就好了
+结果GitHub报错，可能是我导入的位置不对，我想看看用纯html页面能不能显示，结果还是显示不了，毕竟html和markdown还是不一样。后来，我在Google上面搜到[spartazhc](https://spartazhc.github.io/)的[这篇文章](https://spartazhc.github.io/2020/06/03/Next%E4%B8%BB%E9%A2%98%E5%AD%97%E4%BD%93%E9%85%8D%E7%BD%AE/)，提示在config.yml里的font项添加字体配置，很简单，只需要添加host和family就好了
 
 ~~~
 # Uri of fonts host. E.g. //fonts.googleapis.com (Default)
