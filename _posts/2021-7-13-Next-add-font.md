@@ -6,9 +6,7 @@ categories:
 tags:
 ---
 
-昨天浏览了一个网站，看到它的英文字体特别好看，查了下网页源代码，字体是[“Architects Daughter”](https://fonts.google.com/specimen/Architects+Daughter?preview.text=dauthter&preview.text_type=custom&query=architects)，是[Google fonts](https://fonts.google.com/)上的网络字体，然后我尝试在_variables/base.scss里按照Google fonts上面的指导导入这款字体，
-
-···
+昨天浏览了一个网站，看到它的英文字体特别好看，查了下网页源代码，字体是[“Architects Daughter”](https://fonts.google.com/specimen/Architects+Daughter?preview.text=dauthter&preview.text_type=custom&query=architects)，是[Google fonts](https://fonts.google.com/)上的网络字体，然后我尝试在_variables/base.scss里按照Google fonts上面的指导导入这款字体：
 
 ~~~
 <link rel="preconnect" href="https://fonts.googleapis.com"> 
